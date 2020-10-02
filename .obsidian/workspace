@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "4e768bf2eec5596a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e57b14ea796ffb07",
+        "type": "leaf",
+        "dimension": 40.76590487955528,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        },
+        "group": "cfb752c264b7220a"
+      },
+      {
+        "id": "ddfe7ec5b3632304",
+        "type": "leaf",
+        "dimension": 40.76590487955528,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "cfb752c264b7220a"
+      },
+      {
+        "id": "31e6cd9d5a2ae768",
+        "type": "split",
+        "dimension": 18.468190240889438,
+        "children": [
+          {
+            "id": "1efa478f9e380a68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "21733127db65acc3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4481c567e75e803f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6758ae727650e64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dae7a69a04d3a01c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c57c479810834cb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "9d2945044ed85cb2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241
+  },
+  "right": {
+    "id": "78fb0c8fc280c219",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5bcd69acf5a9354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b640bf3855a18dd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "04eb0d81a0fafac8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "5856581e5864b511",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "milestones/0.md",
+    "Obsidian Feature Requests And Bugs.md",
+    "Start Here.md",
+    "What Is Love First.md",
+    "I Want You To Decide On My Life.md",
+    "Just An Idea.md",
+    "This Is Just An Idea.md",
+    "Chidi.md",
+    "Age Is (Not) Just A Number.md"
+  ]
+}
