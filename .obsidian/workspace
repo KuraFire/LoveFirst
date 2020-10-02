@@ -6,7 +6,7 @@
       {
         "id": "e57b14ea796ffb07",
         "type": "leaf",
-        "dimension": 40.76590487955528,
+        "dimension": 68.82168925964545,
         "active": true,
         "state": {
           "type": "markdown",
@@ -14,26 +14,12 @@
             "file": "README.md",
             "mode": "source"
           }
-        },
-        "group": "cfb752c264b7220a"
-      },
-      {
-        "id": "ddfe7ec5b3632304",
-        "type": "leaf",
-        "dimension": 40.76590487955528,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "preview"
-          }
-        },
-        "group": "cfb752c264b7220a"
+        }
       },
       {
         "id": "31e6cd9d5a2ae768",
         "type": "split",
-        "dimension": 18.468190240889438,
+        "dimension": 31.178310740354533,
         "children": [
           {
             "id": "1efa478f9e380a68",
