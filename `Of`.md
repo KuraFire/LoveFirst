@@ -1,5 +1,0 @@
-# Connectors
-
-• `  `
-• `Of`
-• `And`

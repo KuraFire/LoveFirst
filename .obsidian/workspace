@@ -1,60 +1,45 @@
 {
   "main": {
-    "id": "4e768bf2eec5596a",
+    "id": "f6beb576a7abf224",
     "type": "split",
     "children": [
       {
-        "id": "e57b14ea796ffb07",
+        "id": "ab8f1a735e5842e1",
         "type": "leaf",
-        "dimension": 68.82168925964545,
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Welcome to Love First.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "14641b8f7d85ff89"
       },
       {
-        "id": "31e6cd9d5a2ae768",
-        "type": "split",
-        "dimension": 31.178310740354533,
-        "children": [
-          {
-            "id": "1efa478f9e380a68",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "README.md"
-              }
-            }
-          },
-          {
-            "id": "21733127db65acc3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+        "id": "49504cc1e0bb052e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Welcome to Love First.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "14641b8f7d85ff89"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4481c567e75e803f",
+    "id": "6acdfaf4fbc8589c",
     "type": "split",
     "children": [
       {
-        "id": "d6758ae727650e64",
+        "id": "10d522c0160c7735",
         "type": "tabs",
         "children": [
           {
-            "id": "dae7a69a04d3a01c",
+            "id": "91a397f3a852a573",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,62 +47,48 @@
             }
           },
           {
-            "id": "c57c479810834cb2",
+            "id": "7b9b18481eea1d6a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "9d2945044ed85cb2",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 241
+    "width": 300
   },
   "right": {
-    "id": "78fb0c8fc280c219",
+    "id": "2c061f9763d60053",
     "type": "split",
     "children": [
       {
-        "id": "d5bcd69acf5a9354",
+        "id": "8adc7854ace46f34",
         "type": "tabs",
         "children": [
           {
-            "id": "b640bf3855a18dd0",
+            "id": "c5d6850a5cdd5f6c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md"
-              }
-            }
-          },
-          {
-            "id": "04eb0d81a0fafac8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {}
-            }
-          },
-          {
-            "id": "5856581e5864b511",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
+                "file": "Welcome to Love First.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -128,16 +99,9 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "ab8f1a735e5842e1",
   "lastOpenFiles": [
-    "README.md",
-    "milestones/0.md",
-    "Obsidian Feature Requests And Bugs.md",
-    "Start Here.md",
-    "What Is Love First.md",
-    "I Want You To Decide On My Life.md",
-    "Just An Idea.md",
-    "This Is Just An Idea.md",
-    "Chidi.md",
-    "Age Is (Not) Just A Number.md"
+    "Welcome to Love First.md",
+    "Untitled.md"
   ]
 }
