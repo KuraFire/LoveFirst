@@ -3,6 +3,9 @@ Love First began as an idea: that it is possible for us to reimagine, evolve, an
 To make such an idea succeed, it would need two major touchstones at each end of the vast spectrum of human collaboration: at a high level, a [[North Star]] vision of the future that people could believe in; and at the micro-granular level, [[A Very Simple Idea]] that would entice people in an inclusive and accessible way.
 
 
+# This Is <var>(Not)</var> How It Works
+
+Some paragraph in which I am <cite data-cred="@IanDavis">citing someone else's work or statements</cite> and want to attribute Cred to them for that bit of contribution.
 
 ## What is Love First?
 
@@ -21,3 +24,8 @@ To make such an idea succeed, it would need two major touchstones at each end of
 
 
 %%%% ## [[This Is How It Works]]
+%%%%
+
+### [[These Are Things I Stand For]]
+
+It's gonna be lit.

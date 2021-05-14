@@ -4,28 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ab8f1a735e5842e1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Welcome to Love First.md",
-            "mode": "source"
+        "id": "6decfe25a9928224",
+        "type": "split",
+        "children": [
+          {
+            "id": "ab8f1a735e5842e1",
+            "type": "leaf",
+            "dimension": 54.9963530269876,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "These Are Things I Stand For.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "15e1d20be069d2cb",
+            "type": "leaf",
+            "dimension": 45.0036469730124,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "These Are Things I Stand For.md",
+                "mode": "preview"
+              }
+            }
           }
-        },
-        "group": "14641b8f7d85ff89"
-      },
-      {
-        "id": "49504cc1e0bb052e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Welcome to Love First.md",
-            "mode": "preview"
-          }
-        },
-        "group": "14641b8f7d85ff89"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -72,7 +79,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8adc7854ace46f34",
+        "id": "7de5d9c3aa6bf30e",
         "type": "tabs",
         "children": [
           {
@@ -81,26 +88,41 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to Love First.md",
+                "file": "These Are Things I Stand For.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8adc7854ace46f34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49504cc1e0bb052e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 547
   },
-  "active": "ab8f1a735e5842e1",
+  "active": "15e1d20be069d2cb",
   "lastOpenFiles": [
+    "These Are Things I Stand For.md",
+    "North Star.md",
     "Welcome to Love First.md",
     "Untitled.md"
   ]
